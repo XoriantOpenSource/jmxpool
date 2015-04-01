@@ -14,7 +14,7 @@ Power features included:
 
 Download the entire source code using either of the following:
 
-* **Git**: `git clone https://github.com/xoriantcorporation/ffos-app-kickstarter` OR
+* **Git**: `git clone https://github.com/xoriantcorporation/jmxpool.git` OR
 * **Zip**: Simply download the zip file from the link provided on the right. Extract contents.
 
 Start modifying code and add more features
