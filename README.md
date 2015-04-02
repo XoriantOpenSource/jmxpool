@@ -23,8 +23,6 @@ Start modifying code and add more features
 * Source code could be found in the src folder. 
 * Add, Remove, Modify! Create the app you want and showcase it to the world.
 
-
-Running as Java application
 ----------------------
 
 ## Contributions welcome
